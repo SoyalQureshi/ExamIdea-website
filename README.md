@@ -1,2 +1,1 @@
-# ExamIdea-website
-Educational Website
+# ajaypal
